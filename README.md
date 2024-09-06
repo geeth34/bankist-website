@@ -12,12 +12,12 @@ https://github.com/user-attachments/assets/e40e35b8-eb22-443d-8ba5-f419220a7e5a
 
 To run Bankist locally follow these steps :
 
-Clone the repository 
+1. Clone the repository 
 
 ```bash
 git clone https://github.com/geeth34/bankist-website.git
 ```
-Navigate to the project directory and install all the dependencies.
+2. Navigate to the project directory and install all the dependencies.
 
 ```bash
 npm install
