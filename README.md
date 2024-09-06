@@ -42,9 +42,9 @@ Following significantly improve web performance :
 ## Built with
 
 - HTML
-- SASS
+- CSS
 - Javascript
-- Interseection Observer API
+- Intersection Observer API
 
 ## Acknowledgements
 
