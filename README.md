@@ -39,6 +39,13 @@ Following significantly improve web performance :
 - Sticky navigation-bar : keeps the links to different sections accessible without requiring the user to scroll back to the top of the page.
 - Sign up window : allows users to register a new account to access the application.
 
-## References
+## Built with
 
-I made this website as part of the [JavaScript course](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d1947081-94ad-4464-9e66-87d2c3999fed.pdf).
+- HTML
+- SASS
+- Javascript
+- Interseection Observer API
+
+## Acknowledgements
+
+- [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
