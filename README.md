@@ -34,10 +34,10 @@ Open http://localhost:3000 to view it in the browser.
 ## Functionalities
 
 Following significantly improve web performance :
-- Smooth-scrolling : enhances the user experience by creating a visually appealing transition when navigating between the different sections.
-- Lazy-loading : the sections and images load only on scroll, reducing initial load time.
-- Sticky navigation-bar : keeps the links to different sections accessible without requiring the user to scroll back to the top of the page.
-- Sign up window : allows users to register a new account to access the application.
+- **Smooth-scrolling** : enhances the user experience by creating a visually appealing transition when navigating between the different sections.
+- **Lazy-loading** : the sections and images load only on scroll, reducing initial load time.
+- **Sticky navigation-bar** : keeps the links to different sections accessible without requiring the user to scroll back to the top of the page.
+- **Sign up window** : allows users to register a new account to access the application.
 
 ## Built with
 
